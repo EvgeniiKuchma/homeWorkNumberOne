@@ -12,8 +12,8 @@ namespace homeWorkNumberOne
         {
             int crystalPayment = -1;
             uint blacksmithsСrystals  = 10;
-            bool enoughCrystalsToBuy = true;
-            bool notEnoughCrystalsToBuy = false;
+            bool areThereEnoughCrystalsToBuy = true;
+            bool areTherenotEnoughCrystalsToBuy = false;
             float defaultPlantGrowthTime =15.1f;
             double plantGrowthTimeWithSkillBonus = 0.15;
             string nameOfUnit = "Riot rat";
